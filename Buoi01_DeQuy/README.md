@@ -1,4 +1,4 @@
-# Buổi 01 – Đệ quy (BTTH1)
+# Buổi 01 – Đệ quy
 
 Chương trình C# dạng console, gom các bài tập thực hành về **đệ quy**, **thuật toán cơ bản** và **đánh giá độ phức tạp** (Chương 1, 2, 3) vào một menu duy nhất.
 
